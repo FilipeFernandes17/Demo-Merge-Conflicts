@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Filipe Fernandes
+A simple demo, by Filipe for dmit2018
